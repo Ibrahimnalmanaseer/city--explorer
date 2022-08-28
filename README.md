@@ -22,6 +22,7 @@ create (main.js , form.js , data.js) , firstly get the city name from from.js to
 
 <p>08-28-2022 3:00pm - website now deployed on netlify .</p>
 <p>08-28-2022 4:00pm - display city search box on main page</p>
+<p>08-28-2022 11:00pm - all features works</p>
 
 
 ## Credit and Collaborations
