@@ -13,7 +13,8 @@ create (main.js , form.js , data.js) , firstly get the city name from from.js to
 
 ## Architecture
 
-<img src='/home/ibrahimalmanaseer/city-explorer/src/city_expor.png'>
+![city_expor](https://user-images.githubusercontent.com/62019258/187094783-8f935ed2-ac1d-4d1e-a8fe-4f20448a4560.PNG)
+
 
 
 ## Change Log
